@@ -25,20 +25,17 @@ Software:-
 
 1. Arduino Uno app on Windows and Android
 
-<!-- ## Block Diagram:
-![image](https://github.com/user-attachments/assets/99dc6d58-6be6-4000-98aa-111debee31b5) -->
-
 ## Test:
 
-![Subdirectory Image](src/imgs/Block%20Diagram.png "Subdirectory Image Title")
+![image](src/imgs/Block%20Diagram.png "Block Diagram")
 
 ## Flow Chart:
 
-![image](https://github.com/user-attachments/assets/24d21b7b-9cc7-442a-b630-28f43f2300cb)
+![image](src/imgs/Flowchart.png "Flow Chart")
 
 ## Result:
 
-![image](https://github.com/user-attachments/assets/3a218c7b-a1ec-48ce-b822-bcbc5d85c63d)
+![image](src/imgs/Results.png "Result")
 
 ## References:
 
