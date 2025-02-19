@@ -25,7 +25,7 @@ Software:-
 
 1. Arduino Uno app on Windows and Android
 
-## Test:
+## Block Diagram:
 
 ![image](src/imgs/Block%20Diagram.png "Block Diagram")
 
